@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "env-core3": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TestKey": "TestValue"
+      }
+    }
+  }
+}
